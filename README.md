@@ -27,7 +27,7 @@ Open the project:
 After the server starts, open your browser and go to:
 
 ```arduino
-http://localhost:5173
+http://localhost:3000
 ```
 Start playing
 
